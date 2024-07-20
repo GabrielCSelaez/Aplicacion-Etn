@@ -1,3 +1,6 @@
+// 20240718222053
+// https://gabrielcselaez.github.io/aplicacion-etn/info-aulas.json
+
 {
     "results": [
       {
@@ -27,7 +30,8 @@
         "aula_estantes": "0",
         "aula_casilleros": "0",
         "aula_ob": "Mejorar Ventilacion, Sillas, limpiar y pintar paredes adyacentes a pizarra, iluminacion de la pizarra",
-        "aula_tipo": "Curso"
+        "aula_tipo": "Curso",
+        "comp":"img4"
       },
       {
         "aula_id": 2,
@@ -56,7 +60,8 @@
         "aula_estantes": "0",
         "aula_casilleros": "0",
         "aula_ob": "Mejorar Ventilacion, Sillas, limpiar y pintar paredes adyacentes a pizarra, iluminacion de la pizarra",
-        "aula_tipo": "Curso"
+        "aula_tipo": "Curso",
+        "comp":"img5"
       },
       {
         "aula_id": 3,
@@ -346,7 +351,8 @@
         "aula_estantes": "2",
         "aula_casilleros": "25",
         "aula_ob": "Ambiente en perfectas condiciones, se cambiaron los sillas por asientas mas comodos y sofisticados.",
-        "aula_tipo": "Sala"
+        "aula_tipo": "Sala",
+        "comp":"imgs"
       }
     ]
   }
