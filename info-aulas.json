@@ -1,3 +1,6 @@
+// 20240718222053
+// https://gabrielcselaez.github.io/aplicacion-etn/info-aulas.json
+
 {
     "results": [
       {
@@ -323,7 +326,7 @@
         "aula_id": 12,
         "aula_num": "16",
         "aula_nom": "Sala Docentes",
-        "aula_img1": "images/tercerpiso/308/1.jpeg",
+        "aula_img1": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/ca24/live/3cfd4f10-b183-11ee-855d-afef4488bf49.jpg.webp",
         "aula_planta": "3",
         "aula_cap": "10",
         "aula_area": "21",
