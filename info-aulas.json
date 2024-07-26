@@ -14,6 +14,9 @@
       "aula_img3": [
             "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
         ],
+      "aula_img4": [
+            "https://i.blogs.es/3bc078/whatsapp-logo-13/450_1000.jpeg"
+        ],
       "aula_planta": "3",
       "aula_cap": "90",
       "aula_area": "72.81",
@@ -43,6 +46,9 @@
         ],
       "aula_img3": [
             "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
+        ],
+      "aula_img4": [
+            "https://i.blogs.es/3bc078/whatsapp-logo-13/450_1000.jpeg"
         ],
       "aula_planta": "3",
       "aula_cap": "58",
@@ -74,6 +80,9 @@
       "aula_img3": [
             "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
         ],
+      "aula_img4": [
+            "https://i.blogs.es/3bc078/whatsapp-logo-13/450_1000.jpeg"
+        ],
       "aula_planta": "3",
       "aula_cap": "50",
       "aula_area": "49.9",
@@ -104,6 +113,9 @@
       "aula_img3": [
             "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
         ],
+      "aula_img4": [
+            "https://i.blogs.es/3bc078/whatsapp-logo-13/450_1000.jpeg"
+        ],
       "aula_planta": "3",
       "aula_cap": "73",
       "aula_area": "44.63",
@@ -133,6 +145,9 @@
         ],
       "aula_img3": [
             "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
+        ],
+      "aula_img4": [
+            "https://i.blogs.es/3bc078/whatsapp-logo-13/450_1000.jpeg"
         ],
       "aula_planta": "3",
       "aula_cap": "32",
@@ -166,6 +181,9 @@
       "aula_img3": [
             "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
         ],
+      "aula_img4": [
+            "https://i.blogs.es/3bc078/whatsapp-logo-13/450_1000.jpeg"
+        ],
       "aula_planta": "3",
       "aula_cap": "32",
       "aula_area": "44.46",
@@ -181,6 +199,7 @@
       "aula_amp": "1",
       "aula_atril": "1",
       "aula_mesa": "1",
+      "aula_estantes": "0",
       "aula_ob": "Adquirir nuevas computadoras, ya que la mayoria son antiguas, y son muy pocas las que se encuentran en buenas condiciones."
     },
     {
@@ -234,6 +253,7 @@
       "aula_planta": "3",
       "aula_cap": "47",
       "aula_area": "44.07",
+      "aula_area2": "0",
       "aula_comp": "1",
       "aula_soft": "1",
       "aula_data": "1",
@@ -282,38 +302,6 @@
     },
     {
       "aula_id": 10,
-      "aula_nom": "Centro Estudiantes",
-      "aula_num": null,
-      "aula_ubicacion": "Tercer Piso",
-      "aula_img1": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
-        ],
-      "aula_img2": [
-            "https://cdn2.dineroenimagen.com/media/dinero/styles/original/public/images/2019/11/memorizar-cualquier-cosa.jpg"
-        ],
-      "aula_img3": [
-            "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
-        ],
-      "aula_planta": "3",
-      "aula_cap": "15",
-      "aula_area": "28.03",
-      "aula_comp": "3",
-      "aula_soft": "3",
-      "aula_data": "0",
-      "aula_tele": "1",
-      "aula_red": "1",
-      "aula_inter": "1",
-      "aula_escri": "1",
-      "aula_silla": "12",
-      "aula_ventilador": "1",
-      "aula_amp": "1",
-      "aula_atril": "0",
-      "aula_mesa": "2",
-      "aula_estantes": "1",
-      "aula_ob": "El espacio es muy reducido, internet solo disponible para los estudiantes que son parte del centro."
-    },
-    {
-      "aula_id": 11,
       "aula_nom": "Direccion",
       "aula_num": null,
       "aula_ubicacion": "Tercer Piso",
@@ -344,6 +332,43 @@
       "aula_mesa": "1",
       "aula_ob": "Se encuentra en buenas condiciones."
     },
+  ],
+
+  "Interaccion": [
+    {
+      "aula_id": 11,
+      "aula_nom": "Centro Estudiantes",
+      "aula_num": null,
+      "aula_ubicacion": "Tercer Piso",
+      "aula_img1": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
+        ],
+      "aula_img2": [
+            "https://cdn2.dineroenimagen.com/media/dinero/styles/original/public/images/2019/11/memorizar-cualquier-cosa.jpg"
+        ],
+      "aula_img3": [
+            "https://iea.umsa.bo/wp-content/uploads/2022/03/etn_logo_r.png"
+        ],
+      "aula_planta": "3",
+      "aula_cap": "15",
+      "aula_area": "28.03",
+      "aula_comp": "3",
+      "aula_soft": "3",
+      "aula_tele": "1",
+      "aula_red": "1",
+      "aula_inter": "1",
+      "aula_escri": "1",
+      "aula_silla": "12",
+      "aula_ventilador": "1",
+      "aula_amp": "1",
+      "aula_mesa": "2",
+      "aula_estantes": "1",
+      "aula_te": "1",
+      "aula_higi": "0",
+      "aula_tvcable": "1",
+      "aula_casilleros": "0",
+      "aula_ob": "El espacio es muy reducido, internet solo disponible para los estudiantes que son parte del centro."
+    },
     {
       "aula_id": 12,
       "aula_nom": "Sala Docentes",
@@ -363,7 +388,6 @@
       "aula_area": "21",
       "aula_comp": "0",
       "aula_soft": "0",
-      "aula_data": "0",
       "aula_tele": "1",
       "aula_red": "1",
       "aula_inter": "1",
@@ -371,14 +395,13 @@
       "aula_silla": "12",
       "aula_ventilador": "1",
       "aula_amp": "1",
-      "aula_atril": "0",
       "aula_mesa": "1",
+      "aula_estantes": "2",
       "aula_te": "1",
       "aula_higi": "1",
       "aula_tvcable": "1",
-      "aula_estantes": "2",
       "aula_casilleros": "25",
       "aula_ob": "Ambiente en perfectas condiciones, se cambiaron los sillas por asientas mas comodos y sofisticados."
-    }
+    },
   ]
 }
