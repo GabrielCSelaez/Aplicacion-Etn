@@ -34,7 +34,7 @@
       "aula_id": 2,
       "aula_nom": "Aula 305",
       "aula_num": "305",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -64,7 +64,7 @@
       "aula_id": 3,
       "aula_nom": "Aula 306",
       "aula_num": "306",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -94,7 +94,7 @@
       "aula_id": 4,
       "aula_nom": "Aula 307",
       "aula_num": "307",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -124,7 +124,7 @@
       "aula_id": 5,
       "aula_nom": "Aula 308",
       "aula_num": "308",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -156,7 +156,7 @@
       "aula_id": 6,
       "aula_nom": "Laboratorio Computacion",
       "aula_num": "7",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -187,7 +187,7 @@
       "aula_id": 7,
       "aula_nom": "Multimedia",
       "aula_num": "17",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -221,7 +221,7 @@
       "aula_id": 8,
       "aula_nom": "Auditorio",
       "aula_num": "6",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -252,7 +252,7 @@
       "aula_id": 9,
       "aula_nom": "Biblioteca",
       "aula_num": "8",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -284,7 +284,7 @@
       "aula_id": 10,
       "aula_nom": "Centro Estudiantes",
       "aula_num": null,
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -316,7 +316,7 @@
       "aula_id": 11,
       "aula_nom": "Direccion",
       "aula_num": null,
-      "Ubicacion": "Oficina",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
@@ -348,7 +348,7 @@
       "aula_id": 12,
       "aula_nom": "Sala Docentes",
       "aula_num": "16",
-      "Ubicacion": "Tercer Piso",
+      "aula_ubicacion": "Tercer Piso",
       "aula_img1": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqcKumsjeXdjsomJzsW9b1CrgPUqbAdTAJw&s"
         ],
